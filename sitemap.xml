@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://www.ifndef.de/</loc>
+    </url>
+    <url>
+        <loc>https://www.ifndef.de/about/</loc>
+    </url>
+    <url>
+        <loc>https://www.ifndef.de/blog/</loc>
+    </url>
+    <url>
+        <loc>https://www.ifndef.de/blog/first-entry/</loc>
+        <lastmod>2022-10-20</lastmod>
+    </url>
+</urlset>
